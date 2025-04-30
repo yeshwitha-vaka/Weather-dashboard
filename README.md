@@ -25,11 +25,11 @@ And I used OpenWeatherMap API for fetching the live weather data in the code
 - Includes UI controls for theme and units.
 
   ## output:
-  - landing page :
+- landing page :
   ![Screenshot 2025-04-29 152111](https://github.com/user-attachments/assets/a18b5570-6067-4d42-b068-3e58ad499f40)
 - tirumala weather :
   ![33](https://github.com/user-attachments/assets/b46514de-65a4-4132-a18f-9086deb080ba)
--banglor weather :
+- banglor weather :
 ![22](https://github.com/user-attachments/assets/c14c6ad1-4514-4179-836c-fb35c882abc2)
 
 
